@@ -3,9 +3,9 @@
 <br>
 
 
-I was strugling to align `left-section` and `right-section`. After learning more about Flex-Box finally able to align them.
+Learned more about `z-index`. Used it on discount image.
 
-- It took me around **2 hour 30 min** max to complete the project.
+- It took me around **3 hour 20 min** to complete the project.
 
 <br>
 
